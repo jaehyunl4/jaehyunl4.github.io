@@ -26,7 +26,7 @@ menu:
           weight: 4 
 
 params:
-    description: "This website hosts the academic website of Jaehyun Lee."
+    description: "Jaehyun Lee's Academic Website"
     author: Jaehyun Lee
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "March 2026"
